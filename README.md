@@ -1,6 +1,13 @@
-<img width="120" height="120" alt="fl_logo" src="https://github.com/user-attachments/assets/04a9c17d-71a9-463b-9556-c1addb21cb85" /> <h1>Félix Lapointe</h1>
+<img width="120" height="120" alt="fl_logo" src="https://github.com/user-attachments/assets/04a9c17d-71a9-463b-9556-c1addb21cb85" /> <h1>Salut, je suis Félix Lapointe</h1>
 
-Étudiant en Techniques d’intégration Multimédia. Passionné de l’intégration et développement web. À la recherche d’un stage pour enrichir mes compétences, mes connaissances et mon portfolio.
+<p>Étudiant en Techniques d’intégration Multimédia. Passionné de l’intégration et développement web. À la recherche d’un stage pour enrichir mes compétences, mes connaissances et mon portfolio.</p>
+
+<h3>Me rejoindre:</h3>
+
+<a href="https://www.linkedin.com/in/f%C3%A9lix-lapointe-39b699441/"><img width="50" height="50" alt="LinkedIn_icon svg" src="https://github.com/user-attachments/assets/e2ea11cf-321c-417f-a583-a02981d426da" /></a>
+
+
+
 
 
 
