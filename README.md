@@ -1,4 +1,9 @@
-## Hi there 👋
+<img width="120" height="120" alt="fl_logo" src="https://github.com/user-attachments/assets/04a9c17d-71a9-463b-9556-c1addb21cb85" /> <h1>Félix Lapointe</h1>
+
+Étudiant en Techniques d’intégration Multimédia. Passionné de l’intégration et développement web. À la recherche d’un stage pour enrichir mes compétences, mes connaissances et mon portfolio.
+
+
+
 
 <!--
 **FelixLapointe13/FelixLapointe13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
