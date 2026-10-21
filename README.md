@@ -6,9 +6,16 @@
 
 <a href="https://www.linkedin.com/in/f%C3%A9lix-lapointe-39b699441/"><img width="50" height="50" alt="LinkedIn_icon svg" src="https://github.com/user-attachments/assets/e2ea11cf-321c-417f-a583-a02981d426da" /></a>
 
+<h3>Projet favori:</h3>
 
+<div>
+<div>
+  
+  **[Project: Rival](https://felixlapointe13.github.io/project.rival.github.io/)**
 
+<img width="520" height="240" alt="07-resultat_final_project_rival" src="https://github.com/user-attachments/assets/24aa114a-68e2-4855-b601-87f4ff2795b2" /></div>
 
+</div>
 
 
 
